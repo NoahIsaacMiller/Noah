@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @NillsonFrancis
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+##  Hi, I’m Noah Miller
+  
+
